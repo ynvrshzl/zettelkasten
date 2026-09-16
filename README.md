@@ -1,5 +1,5 @@
 <!-- project thumbnail -->
-![](https://images.pexels.com/photos/5911691/pexels-photo-5911691.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=400&w=400)
+![](https://images.pexels.com/photos/5911691/pexels-photo-5911691.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=300&w=1200)
 
 <!-- prologue -->
 <p align=center>
@@ -10,6 +10,10 @@
     <br>
     <sup>Copyright (C) 2026 Lzahlia Hazl</sup>
 </p>
+
+![](https://images.pexels.com/photos/5911691/pexels-photo-5911691.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=100&w=100) 
+
+1.1: "Introduction"
 
 <!-- introduction -->
 
