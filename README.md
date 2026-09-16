@@ -1,25 +1,6 @@
-<!-- project thumbnail -->
-![](https://images.pexels.com/photos/5911691/pexels-photo-5911691.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=300&w=1200)
-
-<!-- prologue -->
-<p align=center> <b>"Synthesia"</b> <br> <sup>"A living terrarium of Ideas"</sup> <br> <br> <sup>Copyright (C) 2026 Lzahlia Hazl</sup> </p>
-
-<!-- image -->
-![](https://images.pexels.com/photos/591130/pexels-photo-591130.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=300&w=2000)
-
----
-__1.0: "Classification"__
-
+![](https://images.pexels.com/photos/5911691/pexels-photo-5911691.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1100&w=1200)
 
 This work serves as an experimental "zettelkasten"-inspired knowledge base, researching methods for knowledge sytsems.
-
----
-
-![](https://images.pexels.com/photos/59121/pexels-photo-59121.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=300&w=2000)
-
-
----
-__1.1: "Introduction__
 
 Once an experimental branch of the "biblioteca" project [^1], this project has grown into an organic biota of ideas.
 
