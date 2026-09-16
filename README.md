@@ -1,6 +1,19 @@
-# README.md
+<!-- project thumbnail -->
+![](https://images.pexels.com/photos/5911691/pexels-photo-5911691.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=400&w=400)
 
-Once an experimental branch of the "biblioteca" project, this project has grown into an organic biota of ideas.
+<!-- prologue -->
+<p align=center>
+    <b>"Synthesia"</b>
+    <br>
+    <sup>"A living terrarium of Ideas"</sup>
+    <br>
+    <br>
+    <sup>Copyright (C) 2026 Lzahlia Hazl</sup>
+</p>
+
+<!-- introduction -->
+
+Once an experimental branch of the "biblioteca" project [^1], this project has grown into an organic biota of ideas.
 
 A zettelkasten-based + graph + hierarchy + narrative. This system is entirely experimental and graph-driven. 
 
@@ -9,3 +22,5 @@ The shape of knowledge naturally forms a manifold strucutre, which we know as "T
 For semantic breakdown, read [[146]]
 
 The... begins at [[0]] or if using a Graph-capable editor, such as Obsidian [[139]], the Graph is sufficient for Topical search [[]]
+
+[^1]: https://github.com/ynvrshzl/biblioteca
