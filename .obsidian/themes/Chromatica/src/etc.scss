@@ -1327,7 +1327,7 @@ div.mermaid {
 	background: local;
 	background-image: linear-gradient(#00000011 .01em, transparent .1em),
 		linear-gradient(90deg, #00000011 .01em, transparent .1em);
-	background-size: 8% 15%; 
+	background-size: 8% 15%;
 	max-height: 75vh;
 	max-width: 100%;
 	overflow: auto !important;
@@ -1336,15 +1336,15 @@ div.mermaid {
 }
 
 div.mermaid {
-    container-type: inline-size;
-    transform-origin: top left;
+	container-type: inline-size;
+	transform-origin: top left;
 }
 
-	div.mermaid > svg {
-    width: 100cqw !important;
-    max-width: none !important;
-    height: auto !important;
-	    transform-origin: top left;
+div.mermaid>svg {
+	width: 100cqw !important;
+	max-width: none !important;
+	height: auto !important;
+	transform-origin: top left;
 
 	// font-size: .8rem !important;
 }
@@ -1361,6 +1361,7 @@ div.mermaid .node path {
 	// filter: drop-shadow(0 0 5px var(--shadow));
 	// z-index: 9 !important;
 }
+
 // div.mermaid .node ::before
 // {
 // 	content: 'id';
@@ -1384,6 +1385,7 @@ div.mermaid .node path:hover {
 	stroke-width: 1px !important;
 	// z-index: 9 !important;
 }
+
 div.mermaid .marker {
 	fill: var(--text-muted) !important;
 	stroke: var(--text-muted) !important;
@@ -1392,15 +1394,41 @@ div.mermaid .marker {
 div.mermaid .flowchart-link {
 	stroke: var(--shadow) !important;
 }
+
 div.mermaid .marker:hover {
 	// scale: 2 !important;
 	fill: var(--color-accent-2) !important;
 	stroke: var(--color-accent-2) !important;
 }
+
 div.mermaid .flowchart-link:hover {
 	stroke: var(--color-accent-2) !important;
 }
+
 div.mermaid .node p {
 	color: var(--text-muted) !important;
 }
 
+.tree-item-self.search-result-file-title.is-clickable {
+	--nav-item-padding: 1rem 0 0 5px;
+}
+.search-result:not(.is-collapsed) .search-result-file-title {
+	--nav-item-color-active: var(--color-accent-2);
+	--nav-item-color-active: var(--text-faint);
+}
+.search-result .search-result-file-title .tree-item-inner::after {
+	content: ".md"
+}
+.search-result .search-result-file-title  {
+	font-size: 0.7em;
+	
+}
+.tree-item.search-result .collapse-icon {
+	float: right;
+}
+
+.search-result-file-matches
+{
+	box-shadow: 0 5px 10px var(--shadow);
+	border-radius: 10px;
+}

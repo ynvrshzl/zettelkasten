@@ -1,4 +1,5 @@
 {
+  "slidingSidebar": false,
   "showLineNumber": true,
   "spellcheck": false,
   "vimMode": true,
@@ -6,12 +7,12 @@
   "showInlineTitle": false,
   "defaultViewMode": "preview",
   "propertiesInDocument": "hidden",
-  "livePreview": false,
+  "livePreview": true,
   "promptDelete": true,
   "alwaysUpdateLinks": true,
   "tabSize": 4,
   "trashOption": "system",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "strictLineBreaks": false,
   "mobileToolbarCommands": [
@@ -51,5 +52,6 @@
     "downscalePercent": 100
   },
   "useMarkdownLinks": true,
-  "newFileFolderPath": "cache"
+  "newFileFolderPath": "",
+  "newLinkFormat": "absolute"
 }

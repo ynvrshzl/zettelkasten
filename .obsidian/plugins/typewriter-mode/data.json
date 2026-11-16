@@ -44,8 +44,8 @@
     "isPauseCurrentLineHighlightWhileSelectingEnabled": false,
     "currentLineHighlightStyle": "box",
     "currentLineHighlightUnderlineThickness": 1,
-    "currentLineHighlightColor-dark": "#444444",
-    "currentLineHighlightColor-light": "#dddddd"
+    "currentLineHighlightColor-dark": "rgba(68, 68, 68, 0.2)",
+    "currentLineHighlightColor-light": "rgba(221, 221, 221, 0.3)"
   },
   "writingFocus": {
     "doesWritingFocusShowHeader": false,
